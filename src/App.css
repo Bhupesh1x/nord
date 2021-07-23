@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.appInput {
+  width: 100%;
+  padding: 5px 10px;
+  border: 2px solid #008ff7;
+  margin: 10px 0px;
+  border-radius: 20px;
+  outline: none;
+}
+.appButton {
+  padding: 7px;
+  color: white;
+  background-color: #008ff7;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.appBody {
+  border: 2px solid #008ff7;
+  padding: 60px;
+  border-radius: 20px;
+}
